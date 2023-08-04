@@ -1,4 +1,4 @@
-# european-soccer-database
+# european-soccer-database-investigation
 <i>
 An investigation on the overall performance of soccer teams.
 
