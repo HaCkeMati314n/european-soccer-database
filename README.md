@@ -6,7 +6,7 @@ This soccer database comes from [Kaggle](https://www.kaggle.com/datasets/hugomat
 
 In my investigation using SQL Queries and Python, I will pose three research questions, try to answer them, and finally come up with conclusions. My research questions will be:
 1. What teams experienced a significant improvement or fell over the period?
-2. What team attributes lead to the most victories?
+2. Which team attributes lead to the most victories?
 3. Which players had the most penalties?
 </i>
 
