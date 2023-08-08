@@ -1,6 +1,6 @@
 # European Soccer Database Investigation
-## An Overview
-<i>(An investigation on the overall performance of soccer teams)</i><br>
+## <i>Overview</i>
+<i><b>(An investigation on the overall performance of soccer teams)</b></i><br>
 
 <i>This soccer database comes from [Kaggle](https://www.kaggle.com/datasets/hugomathien/soccer). It contains data for soccer matches, players, and teams from several European countries from 2008 to 2016. The database is stored in a SQLite database.
 
