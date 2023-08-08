@@ -17,7 +17,7 @@ My research questions are:
 <i>(image: [Kaggle](https://www.kaggle.com/datasets/hugomathien/soccer))</i>
 <br>
 
-## Features
+## <i>Features</i>
 <i>
   
 * Heavy Data Wrangling
