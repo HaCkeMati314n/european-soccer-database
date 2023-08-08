@@ -26,4 +26,5 @@ My research questions are:
 * Database Entity Relationship Diagram
 * Working with SQLite Database
 * SQL Queries
+* Feature Engineering
 </i>
