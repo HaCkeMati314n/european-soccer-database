@@ -1,7 +1,4 @@
 # European Soccer Database Investigation
-<br>
-<br>
-
 ## An Overview
 <i>
 An investigation on the overall performance of soccer teams.
@@ -17,8 +14,6 @@ In my investigation using SQL Queries and Python, I will pose three research que
 ![dataset-cover](https://github.com/HaCkeMati314n/european-soccer-database-investigation/assets/94754426/0705aca5-1911-4bde-8f34-4440beac184d)
 <br>
 <i>(image: [Kaggle](https://www.kaggle.com/datasets/hugomathien/soccer))</i>
-<br>
-<br>
 <br>
 
 ## Features
