@@ -1,4 +1,5 @@
 # European Soccer Database Investigation
+> [<i><b>Link to my notebook</b></i>](https://github.com/HaCkeMati314n/european-soccer-database-investigation/blob/main/soccerDBinvestigation.ipynb)<br>
 ## <i>Overview</i>
 <i><b>(An investigation on the overall performance of soccer teams)</b></i><br>
 
